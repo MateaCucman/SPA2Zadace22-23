@@ -1,0 +1,3 @@
+C:/Users/Matea/Desktop/Faks/SPA2/programCucman/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Matea/Desktop/Faks/SPA2/programCucman/cmake-build-debug/CMakeFiles/programCucman.dir
+C:/Users/Matea/Desktop/Faks/SPA2/programCucman/cmake-build-debug/CMakeFiles/rebuild_cache.dir
